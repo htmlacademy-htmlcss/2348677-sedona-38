@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Danila Sholyakov](https://up.htmlacademy.ru/htmlcss/38/user/2348677).
-* Наставник: `Неизвестно`.
+* Наставник: `Михаил Шишов`.(https://htmlacademy.ru/profile/id2351985)
 
 ---
 
